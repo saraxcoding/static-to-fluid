@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body{
+  margin: 0px;
+}
+
+.clear{
+  clear: both;
+}
+
+#wrapper{
+  margin: auto;
+  max-width: 960px;
+  width: 100%;
+}
+
+/*---------- HEADER ----------*/
+
+header{
+  background: #e3e3e3;
+  height: 300px;
+  width: 100%;
+}
+
+
+/*---------- CONTENT AREA ----------*/
+
+.col-3{
+  float: left;
+  height: 320px;
+  width: 33.33333%;
+}
+
+.grey-1{
+  background: #d5d5d5;
+}
+
+.grey-2{
+  background: #c4c4c4;
+}
+
+.grey-3{
+  background: #b7b7b7;
+}
+
+
+/*---------- FOOTER ----------*/
+
+footer{
+  background: #e3e3e3;
+  height: 30px;
+  width: 100%;
+}
